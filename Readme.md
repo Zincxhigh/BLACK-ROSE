@@ -16,8 +16,9 @@ mine tho the system still follows the same principal to fit the firmware, The or
 convenient.
 
 <img width="701" height="676" alt="Screenshot 2026-10-28 041519" src="https://github.com/user-attachments/assets/e6f2c8f6-9ebb-4028-ab98-766915e93260" />
-<img width="725" height="682" alt="Screenshot 2026-10-28 041502" src="https://github.com/user-attachments/assets/8ed06391-8453-4853-91f7-181fffe41765" /><img width="701" height="676" alt="Screenshot 2026-10-28 041519" src="https://github.com/user-attachments/assets/b7bb3615-084b-4887-9651-bfd29066b331" />
-
+<p align=left>
+<img width="725" height="682" alt="Screenshot 2026-10-28 041502" src="https://github.com/user-attachments/assets/8ed06391-8453-4853-91f7-181fffe41765" />
+</p>
 ## CAD design
 
 The design is bulky and atrocious but it was my second attempt at a Cad incasing so chill out and I know how bad everything fits but I Like the way it looks all techy 
