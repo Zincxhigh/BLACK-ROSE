@@ -28,8 +28,8 @@ Elliot alderson if I don't have space.
 
 The Antenna's are my Best work and it made me feel really smart of how went about fitting antenna's.
 <p align=center>
-<img width="747" height="593" alt="Screenshot 2026-10-27 065208" src="https://github.com/user-attachments/assets/f52ee2ce-e973-4c0c-9f83-8ef549bb2b01" />
 <img width="480" height="623" alt="Screenshot 2026-10-27 065155" src="https://github.com/user-attachments/assets/c0bcad67-3fe5-481a-8e63-aed95640bb5a" />
+<img width="747" height="593" alt="Screenshot 2026-10-27 065208" src="https://github.com/user-attachments/assets/f52ee2ce-e973-4c0c-9f83-8ef549bb2b01" />
 <img width="945" height="690" alt="Screenshot 2026-10-27 065137" src="https://github.com/user-attachments/assets/064ff886-396e-4576-b53b-067dcdd80584" />
 </p>
 
@@ -42,3 +42,12 @@ at the end he faces the truth not bec he wanted but bec the enovirenement forced
 ## Process
 
 The whole thing is documented with Lapse and my struggles to build it.
+
+https://lapse.hackclub.com/timelapse/RKgoAYn0gdhi
+https://lapse.hackclub.com/timelapse/c7LD85HKvazp
+https://lapse.hackclub.com/timelapse/GZly2jAn0SyG
+https://lapse.hackclub.com/timelapse/8Luba1dF0wwt
+https://lapse.hackclub.com/timelapse/mDnerefs9IRr
+https://lapse.hackclub.com/timelapse/ZzycG_YzoOne
+https://lapse.hackclub.com/timelapse/5GctGso8MU3v
+https://lapse.hackclub.com/timelapse/K8lTaUW__fx5
