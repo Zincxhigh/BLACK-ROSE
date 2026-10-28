@@ -1,3 +1,7 @@
+<p align=center>
+<img width="701" height="676" alt="Screenshot 2026-10-28 041519" src="https://github.com/user-attachments/assets/39c0794e-ad58-41a3-b23e-81a6d48b0092" />
+</p>
+
 # This Project is a Tribute to the increadible show called Mr. ROBOT 
 
 ## About
