@@ -16,7 +16,7 @@ mine tho the system still follows the same principal to fit the firmware, The or
 convenient.
 
 <img width="701" height="676" alt="Screenshot 2026-10-28 041519" src="https://github.com/user-attachments/assets/e6f2c8f6-9ebb-4028-ab98-766915e93260" />
-<p align=left>
+<p align=center>
 <img width="725" height="682" alt="Screenshot 2026-10-28 041502" src="https://github.com/user-attachments/assets/8ed06391-8453-4853-91f7-181fffe41765" />
 </p>
 ## CAD design
