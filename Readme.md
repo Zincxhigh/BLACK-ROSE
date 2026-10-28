@@ -15,8 +15,9 @@ The design was inspired by Mr. ROBOT and the design behind is WHITEROSE I intial
 mine tho the system still follows the same principal to fit the firmware, The original had alot of aspect which is way better then mine and I would say that he made it more
 convenient.
 
-<img width="701" height="676" alt="Screenshot 2026-10-28 041519" src="https://github.com/user-attachments/assets/e6f2c8f6-9ebb-4028-ab98-766915e93260" />
+
 <p align=center>
+<img width="701" height="676" alt="Screenshot 2026-10-28 041519" src="https://github.com/user-attachments/assets/e6f2c8f6-9ebb-4028-ab98-766915e93260" />
 <img width="725" height="682" alt="Screenshot 2026-10-28 041502" src="https://github.com/user-attachments/assets/8ed06391-8453-4853-91f7-181fffe41765" />
 </p>
 ## CAD design
@@ -26,11 +27,11 @@ so I will improve the design for better design but I will not change the bulky f
 Elliot alderson if I don't have space.
 
 The Antenna's are my Best work and it made me feel really smart of how went about fitting antenna's.
-
+<p align=center>
 <img width="747" height="593" alt="Screenshot 2026-10-27 065208" src="https://github.com/user-attachments/assets/f52ee2ce-e973-4c0c-9f83-8ef549bb2b01" />
 <img width="480" height="623" alt="Screenshot 2026-10-27 065155" src="https://github.com/user-attachments/assets/c0bcad67-3fe5-481a-8e63-aed95640bb5a" />
 <img width="945" height="690" alt="Screenshot 2026-10-27 065137" src="https://github.com/user-attachments/assets/064ff886-396e-4576-b53b-067dcdd80584" />
-
+</p>
 
 ## Tribute 
 
