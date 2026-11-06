@@ -68,7 +68,8 @@ Required:
 [Slide Switch (2x)](https://www.aliexpress.com/item/1005004402594340.html?aff_fcid=a6e0bf51c0d84fa6a6275c6dae7452cb-1793961629990-07832-_c4eQKm5D&tt=CPS_NORMAL&aff_fsk=_c4eQKm5D&aff_platform=shareComponent-detail&sk=_c4eQKm5D&aff_trace_key=a6e0bf51c0d84fa6a6275c6dae7452cb-1793961629990-07832-_c4eQKm5D&terminal_id=f9433f24f032435b9e382b8b3f625bf6&afSmartRedirect=y)
 [LEDs: 3mm LED box](https://www.aliexpress.com/item/1005004543292837.html?aff_fcid=2ad85a6d1a264c419fcf93a48db1c6eb-1793961652512-08271-_c4dAH9sF&tt=CPS_NORMAL&aff_fsk=_c4dAH9sF&aff_platform=shareComponent-detail&sk=_c4dAH9sF&aff_trace_key=2ad85a6d1a264c419fcf93a48db1c6eb-1793961652512-08271-_c4dAH9sF&terminal_id=f9433f24f032435b9e382b8b3f625bf6&afSmartRedirect=y)
 [Resistor kit](https://www.aliexpress.com/item/1005002364388450.html?aff_fcid=a6d7a041cf834c739d29717820f169e7-1793961680917-08025-_oCoJ7LO&tt=CPS_NORMAL&aff_fsk=_oCoJ7LO&aff_platform=shareComponent-detail&sk=_oCoJ7LO&aff_trace_key=a6d7a041cf834c739d29717820f169e7-1793961680917-08025-_oCoJ7LO&terminal_id=f9433f24f032435b9e382b8b3f625bf6&afSmartRedirect=y)
-Additional:
+
+## Additional:
 
 [TP4056 Charging Module (Micro-USB/Type-C)](https://www.aliexpress.com/item/1005011903177016.html?spm=a2g0o.productlist.main.1.25927b03AX15MR&algo_pvid=98bfcc08-5d2e-4fb3-a08d-f70a8dd02a52&pdp_ext_f=%7B%22order%22%3A%2230%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011903177016%7C_p_origin_prod%3A)
 [JST PH 2.0 Connector](https://www.aliexpress.com/item/32665588344.html?aff_fcid=b2b83f5e036140cd9e04a603137ea045-1793961761739-01549-_ooSOhDd&tt=CPS_NORMAL&aff_fsk=_ooSOhDd&aff_platform=shareComponent-detail&sk=_ooSOhDd&aff_trace_key=b2b83f5e036140cd9e04a603137ea045-1793961761739-01549-_ooSOhDd&terminal_id=f9433f24f032435b9e382b8b3f625bf6&afSmartRedirect=y)
